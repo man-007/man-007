@@ -1,6 +1,8 @@
-## Hi there 👋, I'm Manas Taunk
+<h2 align="center">  Hi there 👋 </h2>
 
-An aspiring software development enthusiast with a hunger for learning new skills, solving challenging problems, and expanding my professional network.
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&width=500&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=fff&animation=fadeIn)
+
+I'm Manas Taunk, an aspiring software development enthusiast with a hunger for learning new skills, solving challenging problems, and expanding my professional network.
 
 ## 🧠 About Me
 
@@ -11,7 +13,19 @@ I enjoy solving complex engineering challenges — from optimizing network laten
 ### Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=man-007&no-frame=true&no-bg=true&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 Beyond work, I actively explore network performance engineering, low-level and high-level optimizations, and open-source contributions focused on clean, testable, and extensible backend frameworks.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=man-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-007&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -19,18 +33,3 @@ Beyond work, I actively explore network performance engineering, low-level and h
 
 - **LinkedIn:** [linkedin.com/in/manas-taunk](https://linkedin.com/in/manas-taunk)  
 - **Email:** manastaunk2021@gmail.com
-
-<!--
-**man-007/man-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
--->
