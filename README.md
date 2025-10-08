@@ -11,7 +11,7 @@ I’m a Backend and Network Systems Engineer passionate about building high-perf
 I enjoy solving complex engineering challenges — from optimizing network latency and concurrency to designing clean, modular architectures that stand the test of scale. I also Strongly believe that great systems are built on clean architecture, consistent coding practices, and measurable performance improvements.
 
 ### Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=man-007&no-frame=true&no-bg=true&theme=aura)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=man-007&theme=aura&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Beyond work, I actively explore network performance engineering, low-level and high-level optimizations, and open-source contributions focused on clean, testable, and extensible backend frameworks.
